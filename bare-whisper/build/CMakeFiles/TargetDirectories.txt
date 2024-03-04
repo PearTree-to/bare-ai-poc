@@ -1,0 +1,4 @@
+/Users/ankushss/Documents/PearTreeBare/bare-whisper/build/CMakeFiles/bare-whisper-1.0.0-979636d5.dir
+/Users/ankushss/Documents/PearTreeBare/bare-whisper/build/CMakeFiles/bare-whisper-1.0.0-979636d5_module.dir
+/Users/ankushss/Documents/PearTreeBare/bare-whisper/build/CMakeFiles/edit_cache.dir
+/Users/ankushss/Documents/PearTreeBare/bare-whisper/build/CMakeFiles/rebuild_cache.dir
