@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/Users/ankushss/Documents/PearTreeBare/bare-whisper/build",
-  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  -I/Users/ankushss/.npm/_npx/833d2841a0330f34/node_modules/bare-dev/include -O3 -DNDEBUG -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -mmacosx-version-min=11.0 -fPIC -o CMakeFiles/bare-whisper-1.0.0-979636d5.dir/binding.c.o -c /Users/ankushss/Documents/PearTreeBare/bare-whisper/binding.c",
-  "file": "/Users/ankushss/Documents/PearTreeBare/bare-whisper/binding.c",
-  "output": "CMakeFiles/bare-whisper-1.0.0-979636d5.dir/binding.c.o"
-}
-]
