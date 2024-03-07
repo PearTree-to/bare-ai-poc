@@ -5,7 +5,7 @@
   "main": "index.js",
   "files": [
     "index.js",
-    "binding.c",
+    "binding.cpp",
     "binding.js",
     "CMakeLists.txt",
     "lib",
@@ -13,7 +13,7 @@
   ],
   "addon": true,
   "scripts": {
-    "test": "standard && bare test.js"
+    "test": "standard && bare index.js"
   },
   "devDependencies": {
     "brittle": "^3.1.1",
