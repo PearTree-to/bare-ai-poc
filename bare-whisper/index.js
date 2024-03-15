@@ -1,5 +1,7 @@
 const binding = require("./binding");
 
-const r = binding.sum(2, 3);
+/* Create a C++ object with passed string */
+const testObject = binding.createTestObject("Foobar");
 
-console.log(r);
+
+binding.accessNameOfObject(testObject);
