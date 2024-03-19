@@ -1,0 +1,4 @@
+[submodule "whisper-tiny-bare"]
+	path = whisper-tiny-bare
+	url = https://github.com/PearTree-to/whisper-tiny-translation--transcription-.git
+	branch = bare-support
