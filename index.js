@@ -3,10 +3,10 @@ const fs = require('fs');
 const { createTranslator, generateText} = require("./whisper-tiny-bare/binding");
 
 const rootDirectory = './'; // if you change the root directory add this
-const usingForTVM = 'metal'; // change this as you use this in your system
+const usingForTVM = 'vulkan'; // change this as you use this in your system
 const directoryPath = 'whisper-tiny-bare/data/audio_bin'; // change the bin file path
 
-const modelDir = path.join(rootDirectory, 'dist/libs/whisper-tiny');
+const modelDir = path.join(rootDirectory, 'dist/whisper-tiny');
 const sharedObjectPath = path.join(modelDir, 'whisper-tiny.so');
 
 const translator = createTranslator(modelDir, sharedObjectPath, usingForTVM);
