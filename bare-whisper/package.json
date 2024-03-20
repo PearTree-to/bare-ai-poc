@@ -2,7 +2,7 @@
   "name": "bare-whisper",
   "version": "1.0.0",
   "description": "Whisper for Bare Javascript",
-  "main": "index.js",
+  "main": "binding.js",
   "files": [
     "index.js",
     "binding.cpp",
