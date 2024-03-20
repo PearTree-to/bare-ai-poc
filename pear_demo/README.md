@@ -1,6 +1,6 @@
 ## Pear Demo With Bare Addon
 
-I want to run the code in `aap.js` in `bare runtime`
+I want to run the code in `app.js` in `bare runtime`
 
 Project setup
 
